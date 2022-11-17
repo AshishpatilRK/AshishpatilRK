@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashish patil.
-- - 👀 I’m Aspiring Data Analyst
+- 👀 I’m Aspiring Data Analyst
 - 👀 I’m interested in  data analytics , data science.
 - 📫 How to reach me ashishppatil2629@gmail.com
 
